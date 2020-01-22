@@ -1,2 +1,0 @@
-# setTimeout
-Created with CodeSandbox
